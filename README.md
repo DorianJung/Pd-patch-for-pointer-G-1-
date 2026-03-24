@@ -1,1 +1,1 @@
-# pointer-G-1
+# pointer G-1
