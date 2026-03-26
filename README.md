@@ -6,9 +6,11 @@ The Pd version I used was 0.56.2 and the following libraries are necessary to ru
 - cyclone
 - FluidCorpusManipulation
 
-1. Clone the repository.
-2. Ensure all libraries are installed via Deken.
-3. Open _main.pd
+As this patch is custom made for my specific Raspberry Pi 5 setup, the playability is quite limited. If you have the necessary hardware, these are the steps to get this to run.
+1. Ensure all libraries are installed via Deken
+2. Open _main.pd
+3. Change the devicename for the comport object to your device
+4. Make sure you are running on a sample rate of 44.1khz
 
 
 
